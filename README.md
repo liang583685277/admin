@@ -1,1 +1,1 @@
-# https://liang583685277.github.io/admin/index.html
+# https://liang583685277.github.io/admin/
